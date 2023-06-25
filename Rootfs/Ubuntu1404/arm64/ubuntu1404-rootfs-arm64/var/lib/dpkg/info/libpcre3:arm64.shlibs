@@ -1,4 +1,0 @@
-libpcreposix 3 libpcre3
-libpcre 3 libpcre3
-udeb: libpcreposix 3 libpcre3-udeb
-udeb: libpcre 3 libpcre3-udeb
